@@ -1,6 +1,6 @@
 # Email Probe
 
-[![Build Status](https://travis-ci.org/rafalcymerys/email_checker.svg?branch=master)](https://travis-ci.org/rafalcymerys/email_checker)
+[![Build Status](https://travis-ci.org/rafalcymerys/email_probe.svg?branch=master)](https://travis-ci.org/rafalcymerys/email_probe)
 [![Code Climate](https://codeclimate.com/github/rafalcymerys/email_checker/badges/gpa.svg)](https://codeclimate.com/github/rafalcymerys/email_checker)
 
 Email Probe lets you check if an email account exists on remote server.
