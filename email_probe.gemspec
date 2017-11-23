@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name         = 'email_probe'
-  s.version      = '1.0.0'
+  s.version      = '1.1.0'
   s.date         = '2016-02-23'
   s.summary      = 'Check if email address exists on remote server'
   s.description  = 'Check if email address exists on remote server'
