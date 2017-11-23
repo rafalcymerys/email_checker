@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'email_probe'
+
+checker = EmailProbe::Checker.new('me@example.org')
+if checker.check(ARGV[0])
+  puts 'Valid email'
+else
+  puts 'Email does not exist'
+end
