@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.homepage     = 'http://rubygems.org/gems/email_probe'
   s.license      = 'MIT'
   s.files        = Dir['lib/**/*']
+  s.executables  = ['check_email']
 
   s.add_development_dependency('rspec', '~> 3.4')
 end

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    email_probe (1.0.0)
+    email_probe (1.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -31,4 +31,4 @@ DEPENDENCIES
   rspec (~> 3.4)
 
 BUNDLED WITH
-   1.11.2
+   1.16.0
